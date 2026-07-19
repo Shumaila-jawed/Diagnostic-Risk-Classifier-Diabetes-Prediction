@@ -104,7 +104,7 @@ https://www.linkedin.com/in/shumaila-jawed-87a55a33a?utm_source=share_via&utm_co
 fb:
 https://www.facebook.com/share/1E5rpVsRug/
 
-Live Demo: *(add your Streamlit link here once deployed)*
+Live Demo: *https://diagnostic-risk-classifier-diabetes-prediction-6nvfjjdsfmcgfkq.streamlit.app/*
 
 ---
 
